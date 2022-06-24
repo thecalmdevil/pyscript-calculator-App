@@ -1,4 +1,4 @@
-from js import console, document
+from xml.dom.minidom import Element
 
 class Calculator:
     def __init__(self, num_first, num_second, sign_click, cal_type):
